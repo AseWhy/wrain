@@ -1,0 +1,17 @@
+{
+    "widget": {
+        "name": "date-time",
+        "size": {
+            "width": 200,
+            "height": 100
+        },
+        "opacity": 1,
+        "hide_title": true,
+        "hide_toolbar": true,
+        "mouse-events": false,
+        "tr-bg": true,
+        "update": 1000,
+        "drawer": "drawer.py",
+        "bg-color": "rgba(0, 0, 0, 0.0)"
+    }
+}

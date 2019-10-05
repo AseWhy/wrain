@@ -1,0 +1,8 @@
+{
+    "EN_us": {
+        "SC_DESC": "Shows the average load on the processor, is updated\nevery 50 ms, shows the average value for 250 ms"
+    },
+    "RU_ru": {
+        "SC_DESC": "Показывает среднее значение загрузки процессора\nобновляется каждые 50мс, показывает среднее \nзнаение нагрузки за  250 мс"
+    }
+}

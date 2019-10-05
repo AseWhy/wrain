@@ -1,0 +1,12 @@
+{
+    "package": {
+        "author": {
+            "bio": "i'm born and death, nothing",
+            "website": "https://vk.com/p1ramidka",
+            "name": "astecom"
+        },
+        "version": 0.5,
+        "name": "default_widget",
+        "initial": "d.py"
+    }
+}

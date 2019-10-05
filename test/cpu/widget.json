@@ -1,0 +1,17 @@
+{
+    "widget": {
+        "name": "CPU",
+        "description": "{$SC_DESC}",
+        "size": {
+            "width": 200,
+            "height": 60
+        },
+        "opacity": 0.95,
+        "hide_title": true,
+        "hide_toolbar": true,
+        "tr-bg": true,
+        "update": 50,
+        "drawer": "drawer.py",
+        "bg-color": "rgba(0, 0, 0, 0.0)"
+    }
+}
